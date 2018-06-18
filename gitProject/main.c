@@ -12,7 +12,7 @@ int main(int argc, char **argv) {
 
 	for (int i = 0; i < 5; i++)
 	{
-		printf("This is a glorious");
+		printf("This is a glorious day isn't it?");
 	}
 	return 1;
 
